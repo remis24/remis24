@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @remis24
 - 👀 I’m interested in alot of random thing
-- 🌱 I’m currently learning SQL, R programming and French.
+- 🌱 I’m currently learning SQL, R programming, python, C# and French.
 - 💞️ I’m looking to collaborate on learning more about programming
 - 📫 How to reach me .....
 
